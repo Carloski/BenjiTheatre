@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BENJI THEATRE</title>
+    <link rel="stylesheet" href="app.css" />
+    <script src="https://use.fontawesome.com/7e9e808a8f.js"></script>
+  </head>
+  <body>
+    <div class="title">
+      <h1>BENJI THEATRE</h1>
+      <p>
+        Showing movies starting<span> Benjamin</span> Géza<span> Affleck</span
+        >-Boldt
+      </p>
+    </div>
+    <div class="movie-container">
+      <label for="">Pick a Movie</label>
+      <select id="movie">
+        <option value="10">Good Will Hunting ($10)</option>
+        <option value="12">Argo($12)</option>
+        <option value="9">The Way Back ($9)</option>
+        <option value="14">The Town ($14)</option>
+        <option value="8">Chasing Amy ($8)</option>
+        <option value="8">The Last Thing He Wanted ($8)</option>
+        <option value="9">Gigli ($9)</option>
+        <option value="14">State of Play ($14)</option>
+        <option value="9">Surviving Christmas ($9)</option>
+        <option value="10">Runner Runner ($10)</option>
+        <option value="9">Phantoms ($9)</option>
+        <option value="14">Pearl Harbor ($14)</option>
+        <option value="12">Reindeer Games (Deception) ($12)</option>
+        <option value="10">Paycheck ($10)</option>
+        <option value="12">Batman V Superman: Dawn Of Justice ($12)</option>
+        <option value="9">200 Cigarettes ($9)</option>
+        <option value="14">Smokin' Aces ($14)</option>
+        <option value="14">Armageddon ($14)</option>
+        <option value="10">Justice League ($10)</option>
+        <option value="12">Jersey Girl ($12)</option>
+        <option value="10">Forces Of Nature ($10)</option>
+        <option value="8">Daredevil ($8)</option>
+        <option value="14">Bounce ($14)</option>
+        <option value="14">Triple Frontier ($14)</option>
+      </select>
+    </div>
+
+    <ul class="showcase">
+      <li>
+        <div class="seat"></div>
+        <small>Available</small>
+      </li>
+      <li>
+        <div class="seat selected"></div>
+        <small>Selected</small>
+      </li>
+      <li>
+        <div class="seat occupied"></div>
+        <small>Occupied</small>
+      </li>
+    </ul>
+
+    <div class="screen-container">
+      <div class="screen"></div>
+      <div class="row">
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+      </div>
+
+      <div class="row">
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat occupied"></div>
+        <div class="seat occupied"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+      </div>
+
+      <div class="row">
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat occupied"></div>
+        <div class="seat occupied"></div>
+        <div class="seat"></div>
+      </div>
+
+      <div class="row">
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+      </div>
+
+      <div class="row">
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat occupied"></div>
+        <div class="seat occupied"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+      </div>
+
+      <div class="row">
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat"></div>
+        <div class="seat occupied"></div>
+        <div class="seat occupied"></div>
+        <div class="seat occupied"></div>
+        <div class="seat"></div>
+      </div>
+    </div>
+
+    <p class="text">
+      You have selected <span id="count">0</span> seats for a price of $
+      <span id="total">0</span>
+    </p>
+    <script src="app.js"></script>
+  </body>
+</html>

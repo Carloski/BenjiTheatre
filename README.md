@@ -1,2 +1,2 @@
 # BenjiTheatre
-Movie Ticket Booking App with Javascript
+Movie Seat Booking with JavaScript
