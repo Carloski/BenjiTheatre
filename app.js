@@ -33,6 +33,3 @@ container.addEventListener('click', (e) => {
     updateSelectedCount();
   }
 });
-// WILO
-// Staring to create JS for event listener to interact with the seat that have been picked and the ones that are still available.
-// Doing this with all the variables that are declates on top of this page
