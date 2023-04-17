@@ -8,13 +8,9 @@ This is a Vanilla JavaScript Project showing a Movie Ticket booking app that onl
 
 ---
 
-<!-- ## Buy me a coffee
+## Purpose
 
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
-
-<a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> -->
-
----
+The purpose of this project was to practice DOM manipulation with Vanilla JavaScript. This was based on one of the projects in Brad Traversy's Udemy course on JavaScript. Link found below.
 
 ## Features
 
@@ -44,14 +40,6 @@ Whether you use this project, have learned something from it, or just like it, p
 - HTML 5
 - CSS
 - JavaScript
-<!-- ---
-
-## Setup
-
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
-
-You might want to look into `config.json` to make change the port you want to use and set up a SSL certificate.
--->
 
 ---
 
@@ -59,10 +47,6 @@ You might want to look into `config.json` to make change the port you want to us
 
 - [Brad Traversy](https://www.udemy.com/user/brad-traversy/)
 - [JavaScript Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
-
-## Purpose
-
-The purpose of this project was to practice DOM manipulation with Vanilla JavaScript. This was based on one of the projects in Brad Traversy's Udemy course on JavaScript. Link found below.
 
 ---
 
