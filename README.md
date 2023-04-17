@@ -30,8 +30,6 @@ The purpose of this project was to practice DOM manipulation with Vanilla JavaSc
 - **Moderator:** The above plus the ability to kick and ban users
 - **Administrator:** All the above plus send global alerts and promote/demote users -->
 
----
-
 ## Acknowledgments
 
 - [Brad Traversy](https://www.udemy.com/user/brad-traversy/)
