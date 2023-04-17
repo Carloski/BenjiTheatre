@@ -16,11 +16,6 @@ The purpose of this project was to practice DOM manipulation with Vanilla JavaSc
 
 - Vanilla JavaScript
 - Responsive Design
-- User @mentioning
-- Private messaging
-- Message deleting (for admins)
-- Ability to kick/ban users (for admins)
-- See other user's IPs (for admins)
 - Other awesome features yet to be implemented
 
 ---
@@ -34,12 +29,6 @@ The purpose of this project was to practice DOM manipulation with Vanilla JavaSc
 - **Helper:** Can delete chat messages
 - **Moderator:** The above plus the ability to kick and ban users
 - **Administrator:** All the above plus send global alerts and promote/demote users -->
-
-# Technologies
-
-- HTML 5
-- CSS
-- JavaScript
 
 ---
 
