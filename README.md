@@ -32,7 +32,7 @@ The purpose of this project was to practice DOM manipulation with Vanilla JavaSc
 
 ---
 
-# Acknowledgments
+## Acknowledgments
 
 - [Brad Traversy](https://www.udemy.com/user/brad-traversy/)
 - [JavaScript Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
